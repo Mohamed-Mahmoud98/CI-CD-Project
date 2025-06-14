@@ -122,7 +122,7 @@ kubectl apply -f k3s/
 ## 🐚 Bash Automation
 
 - `bash_script/script.sh` – General purpose setup or helper script
-- Customize as needed to automate Terraform/Ansible flows
+- Customize as needed to automate Docker/Jenkins/Ansible flows
 
 ---
 
@@ -137,18 +137,9 @@ kubectl apply -f k3s/
 
 ---
 
-## 📄 License
-
-[MIT License](LICENSE) – Free to use, modify, and distribute.
-
----
-
 ## 📬 Contact
 **Mohamed Mahmoud**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Mahmoud-blue)](https://github.com/Mohamed-Mahmoud98)  
 [![Email](https://img.shields.io/badge/Email-mohamedmahmoud6498%40gmail.com-red)](mailto:mohamedmahmoud6498@gmail.com)
-
-
-For questions or collaboration, feel free to [open an issue](https://github.com/your-username/CI-CD-Project/issues) or submit a pull request.
 ---
